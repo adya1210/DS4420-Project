@@ -1,0 +1,147 @@
+{
+  "id": 340,
+  "name": "Origami Orangutan (Fanzine)",
+  "tagline": "Tangerine Double IPA.",
+  "first_brewed": "2018",
+  "description": "A one-off Fanzine Double IPA, amplifying the Clockwork Tangerine concept.",
+  "image": "340.png",
+  "abv": 8.5,
+  "ibu": 70,
+  "target_fg": 1005,
+  "target_og": 1071,
+  "ebc": 18,
+  "srm": 9,
+  "ph": 4.6,
+  "attenuation_level": 93,
+  "volume": {
+    "value": 20,
+    "unit": "litres"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "litres"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Tangerine Extract: 9g FV Addition, Dextrose: 120g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.85,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Simpsons T50",
+        "amount": {
+          "value": 0.12,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe CO2 Extract",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272"
+  },
+  "food_pairing": ["Duck Gyoza", "Sweet and Sour Cauliflower", "Fourme D'ambert"],
+  "brewers_tips": "Add both sweet and bitter orange peels into the mash, play around with the ratio and quantity to find the right balance for your taste.",
+  "contributed_by": "Alexander Ivanovsky <alxiw>"
+}

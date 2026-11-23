@@ -1,0 +1,131 @@
+{
+  "id": 405,
+  "name": "Prime Time",
+  "tagline": "Euro-Hopped Session IPA.",
+  "first_brewed": "2019",
+  "description": "Part of our brewer built series, showcasing beers designed and chosen by our brewers. This beer was created and crafted by Pietro Maltinti.",
+  "image": "405.png",
+  "abv": 4.0,
+  "ibu": 40,
+  "target_fg": 1010,
+  "target_og": 1040,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.6,
+  "attenuation_level": 75,
+  "volume": {
+    "value": 20,
+    "unit": "litres"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "litres"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 45
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.48,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Hallertauer Taurus",
+        "amount": {
+          "value": 7,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Hallertauer Blanc",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Hallertauer Blanc",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Huell Melon",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Hallertauer Blanc",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Huell Melon",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272"
+  },
+  "food_pairing": ["Roasted Red Pepper Hummus", "Garlic and Rosemary Focaccia", "Chicken Salad"],
+  "brewers_tips": "Because you're using a new generation of German hops (which age very quickly), the key for having very intense, pleasant aroma is to use very fresh hops, or your result can be disappointing.",
+  "contributed_by": "Alexander Ivanovsky <alxiw>"
+}

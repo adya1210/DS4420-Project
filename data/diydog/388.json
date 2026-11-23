@@ -1,0 +1,138 @@
+{
+  "id": 388,
+  "name": "Passionista (Fanzine)",
+  "tagline": "Passionfruit New England IPA.",
+  "first_brewed": "2018",
+  "description": "A very juicy New England IPA with amazing tropical and passionfruit aromas, brewed for Fanzine.",
+  "image": "388.png",
+  "abv": 7.6,
+  "ibu": 75,
+  "target_fg": 1010,
+  "target_og": 1068,
+  "ebc": 14,
+  "srm": 7,
+  "ph": 4.4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "litres"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "litres"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 45
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Conc Passionfruit Juice: 160g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 2.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 2.94,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Hallertauer Taurus",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe CO2 Extract",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 80,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 80,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Aurora",
+        "amount": {
+          "value": 80,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272"
+  },
+  "food_pairing": ["Apricot Wensleydale", "Jerk Chicken", "Ice Cream with Passionfruit"],
+  "brewers_tips": "For maximum passionfruit flavour, scoop out the passion fruit, blend in a food processor then freeze in a sterile container to sanitise without chemicals or alcohol, defrost and add to the beer. Don't worry about seeds as they'll sink to the bottom.",
+  "contributed_by": "Alexander Ivanovsky <alxiw>"
+}

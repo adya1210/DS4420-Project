@@ -1,0 +1,129 @@
+{
+  "id": 351,
+  "name": "Mashtag 2018",
+  "tagline": "Hibiscus and Yuzu Pale Ale.",
+  "first_brewed": "2018",
+  "description": "The triumphant return of our democratic brewing concept; Mashtag sees us run a series of votes to determine each element of the beer. This year, at the public’s request, we have brewed an American pale ale with hibiscus flower and yuzu.",
+  "image": "351.png",
+  "abv": 5.0,
+  "ibu": 10,
+  "target_fg": 1010,
+  "target_og": 1048,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.4,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "litres"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "litres"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 25
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Yuzu Extract: 1g Dry Hop, Hibiscus Flowers: 40g Dry Hop"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.84,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "HD1",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "WHP",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "WHP",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "WHP",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272"
+  },
+  "food_pairing": ["Tonkotsu Ramen", "Marmalade Baked Camembert", "Blueberry and Yuzu Cheesecake"],
+  "brewers_tips": "Adding hibiscus at fermentation temp will allow for maximum flavour and colour extraction.",
+  "contributed_by": "Alexander Ivanovsky <alxiw>"
+}

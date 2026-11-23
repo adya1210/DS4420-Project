@@ -1,0 +1,163 @@
+{
+  "id": 377,
+  "name": "Vermont Vampire (Fanzine)",
+  "tagline": "Black New England IPA.",
+  "first_brewed": "2018",
+  "description": "A black New England IPA, released as a Halloween inspired Fanzine issue.",
+  "image": "377.png",
+  "abv": 7.3,
+  "ibu": 40,
+  "target_fg": 1012,
+  "target_og": 1068,
+  "ebc": 100,
+  "srm": 51,
+  "ph": 4.2,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "litres"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "litres"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 25
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.32,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 1.08,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Type 3 ",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272"
+  },
+  "food_pairing": ["Roasted Mango and Habanero Salsa", "Fish Tacos with Pickled Jalapeños", "Short Ribs"],
+  "brewers_tips": "This beer is supposed to be very cloudy. Don’t be shy to get a good bit of the hot break into the fermenter.",
+  "contributed_by": "Alexander Ivanovsky <alxiw>"
+}
