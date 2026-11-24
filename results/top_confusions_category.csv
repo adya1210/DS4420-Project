@@ -1,0 +1,16 @@
+true,predicted,share_of_true,count
+Strong American Ale,IPA,0.5631578947368421,107
+Pale Malty European Lager,Pale Bitter European Beer,0.5604395604395604,51
+Wood Beer,American Porter and Stout,0.5555555555555556,5
+American Wild Ale,Strong Belgian Ale,0.34146341463414637,14
+International Lager,Pale Bitter European Beer,0.3360655737704918,41
+Pale Commonwealth Beer,Pale American Ale,0.3248730964467005,64
+Pale Commonwealth Beer,IPA,0.30456852791878175,60
+Dark British Beer,American Porter and Stout,0.2866666666666667,86
+American Porter and Stout,Dark British Beer,0.2518891687657431,100
+Pale American Ale,IPA,0.23680738786279684,359
+Scottish Ale,Brown British Beer,0.23636363636363636,13
+Scottish Ale,Irish Beer,0.23636363636363636,13
+Spiced Beer,Amber and Brown American Beer,0.22916666666666666,22
+Trappist Ale,Strong Belgian Ale,0.22023809523809523,37
+Fruit Beer,Pale American Ale,0.2127659574468085,20
